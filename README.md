@@ -1,69 +1,76 @@
 # Kendahl Bingham
 
-Hello, GitHub!
+Software Developer specializing in full-stack web applications, system architecture, and scalable solutions. Currently advancing expertise in modern web technologies and software engineering principles.
 
-I'm Kendahl Bingham — a software developer focused on building clean, fast, professional web experiences, from polished marketing sites to full product platforms.
+## Technical Expertise
 
-I care about thoughtful design, solid architecture, and code that's a pleasure to maintain.
+**Languages & Frameworks**  
+TypeScript, JavaScript, React, Next.js, Node.js, C#, .NET, Python, Rust
 
-## About Me
+**Frontend Development**  
+React, Next.js 15, Tailwind CSS, HTML5, CSS3, Responsive Design
 
-- 🎓 Currently learning advanced web development (React, Next.js, and modern JavaScript frameworks)
-- 🎯 Goal: become a proficient full‑stack developer and build impactful web applications
-- 💡 Ask me about web development, team leadership, and building user‑friendly marketplace applications
-- 🌟 I enjoy collaborating with teams and leading projects that make a difference
+**Backend & Data**  
+Node.js, ASP.NET Core, Express, RESTful APIs, MongoDB, SQL Server, Firebase, Firestore
 
-## Technologies and Tools
+**Tools & Platforms**  
+Git, GitHub, VS Code, Vercel, Render, Expo, Firebase Cloud Functions, Stripe API
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />
-</div>
+**Practices**  
+Agile Development, CI/CD, Authentication Systems, Security Best Practices, API Design, Database Schema Design
 
-**Proficient in:**
+## Featured Work
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- Backend: Node.js, API development
-- Tools: Git, GitHub, VS Code, Vercel
-- Skills: Team leadership, project management, UI/UX design, responsive web development
+### [VIGILUX](https://github.com/kendychae/VIGILUX)
+**Community Safety & Police Accountability Platform**
 
-## Featured Projects
+Full-stack application addressing police violence accountability through civic engagement.
 
-### 🏺 [Handcrafted Haven — Artisan Marketplace](https://github.com/kendychae/handcrafted-haven)
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
+- **Role:** Project Lead & Full-Stack Developer
+- **Features:** Real-time incident reporting, data visualization, secure authentication, geographic mapping
+- **Impact:** Scalable architecture for community-driven transparency
 
-A marketplace application connecting artisans with customers, featuring:
+### [B.CLEAN Application](https://github.com/kendychae/B.CLEAN.APP)
+**Enterprise Field Service Management**
 
-- **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS
-- **Features:** Product catalog, artisan profiles, interactive filtering, responsive design
-- **Live Demo:** https://handcrafted-haven-kendychae.vercel.app/
-- **Role:** Team Lead — managed project development, GitHub collaboration, and deployment
+Mobile application for business operations management in service industries.
 
-### 🚀 More Projects Coming Soon!
+- **Stack:** React Native, TypeScript, Firebase, Stripe, Google Maps SDK
+- **Architecture:** Serverless backend with Cloud Functions, real-time database synchronization
+- **Features:** Role-based access control, GPS navigation, payment processing, digital signatures, photo documentation
+- **Security:** RBAC implementation, encrypted transmission, secure payment integration
 
-Currently working on additional full‑stack applications and exploring new technologies.
+### [Handcrafted Haven](https://github.com/kendychae/handcrafted-haven)
+**Artisan Marketplace Platform**
 
-## GitHub Stats
+E-commerce application connecting artisans with customers.
 
-![Kendahl's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendychae&show_icons=true&theme=radical)
+- **Stack:** Next.js 15, TypeScript, Tailwind CSS
+- **Role:** Team Lead
+- **Features:** Product catalog, filtering system, shopping cart, artisan profiles
+- **Production:** [Deployed on Vercel](https://handcrafted-haven-kendychae.vercel.app/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kendychae&layout=compact&theme=radical)
+### [ServeHub](https://github.com/kendychae/CSE325-Team4-GroupProject)
+**Volunteer Opportunity Management System**
 
-## Let's Connect!
+Platform for connecting community members with service opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendahl-b-563984187/)
+- **Stack:** ASP.NET Core, Blazor Server, SQL Server
+- **Architecture:** Monolithic architecture with Identity authentication
+- **Features:** Opportunity management, user registration, responsive design
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kendychae)
+## Current Focus
 
-Feel free to explore my repositories — I’m always interested in collaborating on exciting projects and learning from fellow developers.
+Advancing knowledge in distributed systems, cloud architecture, and modern software engineering practices. Building production-ready applications with emphasis on security, scalability, and maintainability.
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendahl-b-563984187/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kendychae)
 
 ---
 
-_"Building the web, one commit at a time."_
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kendychae&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kendychae&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)

@@ -1,8 +1,10 @@
 # Kendahl Bingham
 
-Hello, GitHub! 👋
+Hello, GitHub! 
 
-I'm Kendahl Bingham, a student at Brigham Young University-Idaho studying web development and full-stack development. Welcome to my GitHub profile!
+I'm Kendahl Bingham, a software developer focused on building clean, fast, professional web experiences — from polished marketing sites to full product platforms.
+
+I care about thoughtful design, solid architecture, and code that's a pleasure to maintain.
 
 ## About Me
 
